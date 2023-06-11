@@ -258,7 +258,7 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content="I'm Moiz, a software engineer and entrepreneur based in Karachi City."
+          content="I'm Samad, a software engineer based in Karachi City."
         />
       </Head>
       <Container className="mt-9">

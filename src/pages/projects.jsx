@@ -44,7 +44,7 @@ const projects = [
   {
     name: 'Saiki',
     description:
-      'Modern LMS for universities that focus on improving teachers and students experience.',
+      'Modern LMS for universities that focus on improving teachers and students experience. Worked in a team of 3.',
     builtWith: 'Build with React.js, Django, and PostgresSQL.',
     link: { href: 'https://github.com/progrmoiz/Saiki', label: 'github.com' },
     logo: logoSaiki,

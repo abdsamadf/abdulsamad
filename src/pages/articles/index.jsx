@@ -38,7 +38,7 @@ export default function ArticlesIndex({ articles }) {
   return (
     <>
       <Head>
-        <title>Articles - Moiz Farooq</title>
+        <title>Articles - Abdul Samad</title>
         <meta
           name="description"
           content="All of my long-form thoughts on programming, product design and development, CI/CD Pipeline, automation and more, collected in chronological order."
